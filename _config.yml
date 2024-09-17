@@ -5,6 +5,7 @@ description: Eine Hochzeitswebsite von Lizzie & Fabi > # this means to ignore ne
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
+mastodon_handle: sico93
 twitter_username: sico93
 github_username: Sico93
 
