@@ -3,9 +3,9 @@ title: LiFa Hochtiet!
 email: hochzeit@lifa.social
 description: Eine Hochzeitswebsite von Lizzie & Fabi > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://wedding.lifa.social" # the base hostname & protocol for your site
 
-mastodon_handle: sico93
+mastodon_handle: @sico93
 twitter_username: sico93
 github_username: Sico93
 
